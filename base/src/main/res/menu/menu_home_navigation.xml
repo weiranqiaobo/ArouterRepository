@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_title"
+        android:icon="@drawable/tab_home"
+        android:title="消息" />
+    <item
+        android:id="@+id/navigation_addClue"
+        android:icon="@drawable/tab_add_clue"
+        android:title="新增线索" />
+    <item
+        android:id="@+id/navigation_project"
+        android:icon="@drawable/tab_invest"
+        android:title="线索管理" />
+
+    <item
+        android:id="@+id/navigation_my"
+        android:icon="@drawable/tab_my"
+        android:title="统计" />
+
+</menu>
